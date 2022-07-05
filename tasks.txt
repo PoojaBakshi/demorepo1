@@ -1,0 +1,15 @@
+
+
+
+docker save - load - import when client does not allow to connect to his network
+https://docs.docker.com/engine/reference/commandline/load/
+https://docs.docker.com/engine/reference/commandline/import/
+https://stackoverflow.com/questions/23935141/how-to-copy-docker-images-from-one-host-to-another-without-using-a-repository
+pod-pod communication
+
+https://www.c-sharpcorner.com/article/understanding-partitioning-and-partition-key-in-azure-cosmos-db/
+
+https://university.scylladb.com/courses/data-modeling/lessons/basic-data-modeling-2/topic/primary-key-partition-key-clustering-key/
+
+
+
